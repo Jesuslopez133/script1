@@ -1,0 +1,14 @@
+SI QUIERES CORRER EL PROGRAMA OCUPAS
+INSTALAR COLORAMA HACIENDO LO SIGUIENTE:
+
+apt install python
+apt install python2
+apt install pip
+pip install colorama
+
+DESPUES DE HACER LO ANTERIOR PUEDES PONER LO
+SIGUIENTE PARA CORRER EL PROGRAMA:
+
+python primerscript.py
+
+LISTO.
