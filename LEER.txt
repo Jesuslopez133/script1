@@ -9,6 +9,6 @@ pip install colorama
 DESPUES DE HACER LO ANTERIOR PUEDES PONER LO
 SIGUIENTE PARA CORRER EL PROGRAMA:
 
-python primerscript.py
+python proyecto.py
 
 LISTO.
